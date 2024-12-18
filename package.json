@@ -1,6 +1,6 @@
 {
   "name": "@randplus/0to1",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "In theory, the random functions in this package can also output 1. This package is included in 'randplus'.",
   "main": "index.js",
   "scripts": {
