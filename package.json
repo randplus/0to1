@@ -1,6 +1,6 @@
 {
   "name": "@randplus/0to1",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "In theory, the random functions in this package can also output 1. This package is included in 'randplus'.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "homepage": "https://github.com/randplus/0to1#readme",
   "dependencies": {
     "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0"
   }
 }
